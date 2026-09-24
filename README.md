@@ -1,4 +1,4 @@
-# Gestão da Beleza
+# 🪞Gestão da Beleza
 
 ## Status do projeto
 
