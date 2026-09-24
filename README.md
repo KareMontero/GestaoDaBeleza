@@ -6,7 +6,8 @@ Em desenvolvimento
 
 ## Tecnologias utilizadas
 
-em construção
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Desenvolvedores
 
